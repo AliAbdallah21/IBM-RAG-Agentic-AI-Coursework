@@ -126,3 +126,29 @@ It's recommended to create a virtual environment first.
 pip install -r requirements.txt
 
 ```
+
+*(Note: A `requirements.txt` will be added as you progress through the courses and use new libraries.)*
+
+### 3. Run the Notebook
+
+You can open the `.ipynb` files in Jupyter Lab, VS Code, or Google Colab.
+
+---
+
+## 👋 Contributing
+
+This repository is primarily for my personal coursework. However, if you find issues or have suggestions, feel free to open an issue or submit a pull request.
+
+---
+
+## 📄 License
+
+MIT © 2025 Ali Abdallah
+
+---
+
+## ✉️ Contact
+
+Ali Abdallah
+📧 aliabdalla2110@gmail.com
+GitHub: [AliAbdallah21](https://github.com/AliAbdallah21)
