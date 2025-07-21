@@ -53,6 +53,7 @@ This program consists of 8 courses. Below is an overview of each, along with lin
 * **Description:** Explores the role of vector databases in RAG systems, covering key concepts, architecture, and practical usage (e.g., ChromaDB).
 * **Content in this repo:** Notebooks and exercises related to understanding vector database concepts and basic interactions.
 * **Associated Files:** [ChromaDB Helper Script](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_3_ChromaDB_Setup_Lab/ChromaDB_Filtering.ipynb)
+* **Key Project:** [Employee Records Search with ChromaDB](https://github.com/AliAbdallah21/ChromaDB-Employee-Records-Search) – An application demonstrating employee record management and search using ChromaDB.
 
 ---
 
