@@ -116,3 +116,13 @@ To explore the notebooks and exercises in this repository:
 ```bash
 git clone https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework.git
 cd IBM-RAG-Agentic-AI-Coursework
+
+```
+
+### 2. Install dependencies
+
+It's recommended to create a virtual environment first.
+```bash
+pip install -r requirements.txt
+
+```
