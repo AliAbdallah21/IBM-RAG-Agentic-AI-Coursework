@@ -48,10 +48,11 @@ This program consists of 8 courses. Below is an overview of each, along with lin
 
 ---
 
-### **Course 3: Vector Databases for RAG: An Introduction**  
-**Status:** 31% Complete  
-**Description:** Explores the role of vector databases in RAG systems, covering key concepts, architecture, and practical usage (e.g., ChromaDB).  
-**Content in this repo:** Notebooks and exercises related to understanding vector database concepts and basic interactions.
+### Course 3: Vector Databases for RAG: An Introduction
+* **Status:** 🟡 31% Complete
+* **Description:** Explores the role of vector databases in RAG systems, covering key concepts, architecture, and practical usage (e.g., ChromaDB).
+* **Content in this repo:** Notebooks and exercises related to understanding vector database concepts and basic interactions.
+* **Associated Files:** [ChromaDB Helper Script](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_3_ChromaDB_Setup_Lab/ChromaDB_Filtering.ipynp)
 
 ---
 
