@@ -59,13 +59,15 @@ This program consists of 8 courses. Below is an overview of each, along with lin
 
 ---
 
-### **Course 4: Advanced RAG with Vector Databases and Retrievers**
-**Status:** Not Started
-**Description:** This course will cover more advanced techniques for Retrieval-Augmented Generation (RAG), retriever strategies, and optimization techniques. Topics will include the integration of vector databases for more efficient information retrieval and enhancements to RAG workflows.
-**Key Project:** *(To be added if applicable)*
-You can explore the course-related notebooks here:
-- [Parent Document Retriever Example](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_4_Advanced_Retrievers_Lab/Parent_Document_Retriever_Example.ipynb)
-- [Self Query Retriever Example](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_4_Advanced_Retrievers_Lab/Self_Query_Retriever_Example.ipynb)
+### Course 4: Advanced RAG with Vector Databases and Retrievers
+* **Status:** ⬜ Working on it
+* **Description:** This course covers advanced techniques for Retrieval-Augmented Generation (RAG), focusing on retriever strategies and optimization. It explores how to leverage vector databases for more efficient retrieval and enhance RAG workflows with sophisticated retriever designs.
+* **Content in this repo:** Hands-on labs and notebooks demonstrating advanced retriever implementations.
+* **Associated Files:**
+    * [Parent Document Retriever Example](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_4_Advanced_Retrievers_Lab/Parent_Document_Retriever_Example.ipynb)
+    * [Self Query Retriever Example](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_4_Advanced_Retrievers_Lab/Self_Query_Retriever_Example.ipynb)
+* **Key Projects:** *(To be added if applicable)*
+
 
 ---
 
