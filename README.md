@@ -66,7 +66,7 @@ This program consists of 8 courses. Below is an overview of each, along with lin
 * **Associated Files:**
     * [Parent Document Retriever Example](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_4_Advanced_Retrievers_Lab/Parent_Document_Retriever_Example.ipynb)  
     * [Self Query Retriever Example](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_4_Advanced_Retrievers_Lab/Self_Query_Retriever_Example.ipynb)  
-    * [Vector Store Backed Retriever Example](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_4_Advanced_Retrievers_Lab/Vector_Store_Backed_Retriever_Example.ipynb)  
+    * [Vector Store Backed Retriever Example](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_4_Advanced_Retrievers_Lab/Vector_Store_Backed_Retriever.ipynb)  
     * [Multi-Query Retriever Example](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_4_Advanced_Retrievers_Lab/Multi_Query_Retriever_Example.ipynb)  
 * **Key Projects:** *()*
 
