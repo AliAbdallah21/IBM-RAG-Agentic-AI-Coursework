@@ -59,10 +59,13 @@ This program consists of 8 courses. Below is an overview of each, along with lin
 
 ---
 
-### **Course 4: Advanced RAG with Vector Databases and Retrievers**  
-**Status:** Not Started  
-**Description:** Will cover more advanced RAG techniques, retriever strategies, and optimization.  
+### **Course 4: Advanced RAG with Vector Databases and Retrievers**
+**Status:** Not Started
+**Description:** This course will cover more advanced techniques for Retrieval-Augmented Generation (RAG), retriever strategies, and optimization techniques. Topics will include the integration of vector databases for more efficient information retrieval and enhancements to RAG workflows.
 **Key Project:** *(To be added if applicable)*
+You can explore the course-related notebooks here:
+- [Parent Document Retriever Example](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_4_Advanced_Retrievers_Lab/Parent_Document_Retriever_Example.ipynb)
+- [Self Query Retriever Example](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_4_Advanced_Retrievers_Lab/Self_Query_Retriever_Example.ipynb)
 
 ---
 
