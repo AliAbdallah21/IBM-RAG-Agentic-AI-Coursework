@@ -68,7 +68,10 @@ This program consists of 8 courses. Below is an overview of each, along with lin
     * [Self Query Retriever Example](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_4_Advanced_Retrievers_Lab/Self_Query_Retriever_Example.ipynb)  
     * [Vector Store Backed Retriever Example](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_4_Advanced_Retrievers_Lab/Vector_Store_Backed_Retriever.ipynb)  
     * [Multi-Query Retriever Example](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_4_Advanced_Retrievers_Lab/Multi_Query_Retriever.ipynb)  
-* **Key Projects:** *()*
+* **Key Projects:** See the [Advanced Retrievers in LlamaIndex repository](https://github.com/AliAbdallah21/Advanced-Retrievers-in-LlamaIndex) for an extended, practical implementation of these concepts.  
+
+> **Citation:** This work is based on materials from the *IBM RAG and Agentic AI* course, adapted and extended in the [Advanced Retrievers in LlamaIndex](https://github.com/AliAbdallah21/Advanced-Retrievers-in-LlamaIndex) project.
+
 
 
 
