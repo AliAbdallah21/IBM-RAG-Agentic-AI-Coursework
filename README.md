@@ -58,21 +58,19 @@ This program consists of 8 courses. Below is an overview of each, along with lin
     * [Intelligent Food Recommendation System](https://github.com/AliAbdallah21/Food-Recommendation-System) – A comprehensive application demonstrating semantic search, advanced filtering, and RAG chatbot capabilities using ChromaDB and OpenAI.
 
 ---
-
 ### Course 4: Advanced RAG with Vector Databases and Retrievers
-* **Status:** ⬜ Working on it  
+* **Status:** ✅ Completed  
 * **Description:** This course covers advanced techniques for Retrieval-Augmented Generation (RAG), focusing on retriever strategies and optimization. It explores how to leverage vector databases for more efficient retrieval and enhance RAG workflows with sophisticated retriever designs.  
 * **Content in this repo:** Hands-on labs and notebooks demonstrating advanced retriever implementations.  
 * **Associated Files:**
     * [Parent Document Retriever Example](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_4_Advanced_Retrievers_Lab/Parent_Document_Retriever_Example.ipynb)  
     * [Self Query Retriever Example](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_4_Advanced_Retrievers_Lab/Self_Query_Retriever_Example.ipynb)  
     * [Vector Store Backed Retriever Example](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_4_Advanced_Retrievers_Lab/Vector_Store_Backed_Retriever.ipynb)  
+    
     * [Multi-Query Retriever Example](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_4_Advanced_Retrievers_Lab/Multi_Query_Retriever.ipynb)  
-* **Key Projects:** See the [Advanced Retrievers in LlamaIndex repository](https://github.com/AliAbdallah21/Advanced-Retrievers-in-LlamaIndex) for an extended, practical implementation of these concepts.  
-
-> **Citation:** This work is based on materials from the *IBM RAG and Agentic AI* course, adapted and extended in the [Advanced Retrievers in LlamaIndex](https://github.com/AliAbdallah21/Advanced-Retrievers-in-LlamaIndex) project.
-
-
+* **Key Projects:** 
+    * [Advanced Retrievers in LlamaIndex repository](https://github.com/AliAbdallah21/Advanced-Retrievers-in-LlamaIndex) - Implementation of core retriever concepts
+    * [AI-Powered YouTube Summarizer](https://github.com/AliAbdallah21/AI-Powered-YouTube-Summarizer) - Practical application of RAG for video content analysis and Q&A
 
 
 ---
