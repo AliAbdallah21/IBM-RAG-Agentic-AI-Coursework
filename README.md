@@ -81,8 +81,8 @@ This program consists of 8 courses. Below is an overview of each, along with lin
 * **Status:** Started  
 * **Description:** Expected to cover Generative AI applications that integrate multiple data types, such as text, images, and audio.
 * **Associated Files:**
-  * [A simple small model for Text To Speech Generation ](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_5_Build-Multimodal-Generative-AI-Applications/facebook_mms_tts.ipynb)  
-  * [A simple small model for Speech To Text Generation](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_5_Build-Multimodal-Generative-AI-Applications/facebook_wav2vec2_stt.ipynb
+  * [A small model for Text To Speech Generation Using facebook_mms_tts ](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_5_Build-Multimodal-Generative-AI-Applications/facebook_mms_tts.ipynb)  
+  * [A small model for Speech To Text Generation Using facebook_wav2vec2_stt](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_5_Build-Multimodal-Generative-AI-Applications/facebook_wav2vec2_stt.ipynb
 )  
 * **Key Project:** *(To be added)*
 
