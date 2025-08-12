@@ -42,10 +42,10 @@ This program consists of 8 courses. Below is an overview of each, along with lin
 ---
 
 ### **Course 2: Build RAG Applications: Get Started**  
-**Status:** ✅ Complete  
-**Description:** Focuses on the fundamentals of Retrieval Augmented Generation (RAG), explaining how to combine LLMs with external knowledge bases for more accurate and context-aware responses.  
-**Associated Files:** [Rag_pipeline](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_2_Develop-Generative-AI-Applications-Get-Started/RAG_pipeline.ipynb)
-**Key Project:** [LinkedIn Icebreaker Bot](https://github.com/AliAbdallah21/RAG-Icebreaker-Gradio-ChatBot) – A practical chatbot using RAG to generate personalized networking messages.
+* **Status:** ✅ Complete  
+* **Description:** Focuses on the fundamentals of Retrieval Augmented Generation (RAG), explaining how to combine LLMs with external knowledge bases for more accurate and context-aware responses.  
+* **Associated Files:** [Rag_pipeline](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_2_Develop-Generative-AI-Applications-Get-Started/RAG_pipeline.ipynb)
+* **Key Project:** [LinkedIn Icebreaker Bot](https://github.com/AliAbdallah21/RAG-Icebreaker-Gradio-ChatBot) – A practical chatbot using RAG to generate personalized networking messages.
 
 
 ---
