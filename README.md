@@ -88,7 +88,8 @@ This program consists of 8 courses. Below is an overview of each, along with lin
     - Transcribes meeting audio using Whisper (transformers).  
     - Normalizes financial product terminology (e.g., “401k” → “401(k) retirement savings plan”).  
     - Generates structured **Meeting Minutes** and a **Task List** using an OpenAI chat model via LangChain.  
-    - Exposes a simple web UI with Gradio for upload and download.  
+    - Exposes a simple web UI with Gradio for upload and download.
+   *[Image generation Using Open AI's DALL-E-2, and DALL-E-3](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_5_Build-Multimodal-Generative-AI-Applications/DALL%20E%20Image%20generation%20Guide%20for%20Beginners.ipynb) 
 
 * **Key Project:** *(To be added)*  
 
