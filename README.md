@@ -79,12 +79,19 @@ This program consists of 8 courses. Below is an overview of each, along with lin
 
 ### **Course 5: Build Multimodal Generative AI Applications**  
 * **Status:** Started  
-* **Description:** Expected to cover Generative AI applications that integrate multiple data types, such as text, images, and audio.
-* **Associated Files:**
-  * [A small model for Text To Speech Generation Using facebook_mms_tts ](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_5_Build-Multimodal-Generative-AI-Applications/facebook_mms_tts.ipynb)  
-  * [A small model for Speech To Text Generation Using facebook_wav2vec2_stt](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_5_Build-Multimodal-Generative-AI-Applications/facebook_wav2vec2_stt.ipynb
-)  
-* **Key Project:** *(To be added)*
+* **Description:** Expected to cover Generative AI applications that integrate multiple data types, such as text, images, and audio.  
+
+* **Associated Files:**  
+  * [Text To Speech Generation using `facebook_mms_tts`](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_5_Build-Multimodal-Generative-AI-Applications/facebook_mms_tts.ipynb)  
+  * [Speech To Text Generation using `facebook_wav2vec2_stt`](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_5_Build-Multimodal-Generative-AI-Applications/facebook_wav2vec2_stt.ipynb)  
+  * [AI Meeting Assistant](https://github.com/AliAbdallah21/ai-meeting-assistant)  
+    - Transcribes meeting audio using Whisper (transformers).  
+    - Normalizes financial product terminology (e.g., “401k” → “401(k) retirement savings plan”).  
+    - Generates structured **Meeting Minutes** and a **Task List** using an OpenAI chat model via LangChain.  
+    - Exposes a simple web UI with Gradio for upload and download.  
+
+* **Key Project:** *(To be added)*  
+
 
 ---
 
