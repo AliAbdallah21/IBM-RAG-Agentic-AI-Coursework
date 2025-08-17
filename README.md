@@ -93,7 +93,9 @@ This program consists of 8 courses. Below is an overview of each, along with lin
       
   * [Image generation Using Open AI's DALL-E-2, and DALL-E-3](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_5_Build-Multimodal-Generative-AI-Applications/DALL%20E%20Image%20generation%20Guide%20for%20Beginners.ipynb) 
 
-* **Key Project:** *(To be added)*  
+* **Key Projects:**
+    * [StyleFinder](https://github.com/AliAbdallah21/StyleFinder) - A web application for fashion analysis using computer vision, vector similarity search, and a multi-modal LLM.
+    
 
 
 ---
