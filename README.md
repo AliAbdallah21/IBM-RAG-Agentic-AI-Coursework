@@ -91,7 +91,8 @@ This program consists of 8 courses. Below is an overview of each, along with lin
     - Exposes a simple web UI with Gradio for upload and download.
    
   * [Image generation Using Open AI's DALL-E-2, and DALL-E-3](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_5_Build-Multimodal-Generative-AI-Applications/DALL%20E%20Image%20generation%20Guide%20for%20Beginners.ipynb)
-  * [Image analysis Using meta-llama/llama-4-maverick](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_5_Build-Multimodal-Generative-AI-Applications/ImagesAnalyzer_.ipynb) 
+  * [Image analysis Using meta-llama/llama-4-maverick](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_5_Build-Multimodal-Generative-AI-Applications/ImagesAnalyzer_.ipynb)
+  * [A pdf highlights how to use the advanced multi modal applications](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_5_Build-Multimodal-Generative-AI-Applications/Advanced%20Multimodal%20Applications.pdf)
 
 * **Key Projects:**
     * [StyleFinder](https://github.com/AliAbdallah21/StyleFinder) - A web application for fashion analysis using computer vision, vector similarity search, and a multi-modal LLM.
