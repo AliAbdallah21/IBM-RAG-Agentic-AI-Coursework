@@ -103,8 +103,12 @@ This program consists of 8 courses. Below is an overview of each, along with lin
 ---
 
 ### **Course 6: Fundamentals of Building AI Agents**  
-**Status:** Not Started  
-**Description:** Will introduce the core principles and architectures behind building autonomous AI agents.  
+* **Status:** In Progress  
+* **Description:** Will introduce the core principles and architectures behind building autonomous AI agents.
+* **Associated Files:**
+  * [An AI math assistatnt agent using LangChain , and LangGraph methods](https://github.com/AliAbdallah21/AI_Math_Assistant_with_LangChain/blob/main/AI_Math_Assistant_with_LangChain.ipynb)
+  * 
+
 **Key Project:** *(To be added if applicable)*
 
 ---
