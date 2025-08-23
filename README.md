@@ -142,6 +142,7 @@ The IBM RAG and Agentic AI Professional Certificate is a comprehensive program d
 **Associated Implementations:**
 - 📁 [AI Math Assistant with LangChain](https://github.com/AliAbdallah21/AI_Math_Assistant_with_LangChain/blob/main/AI_Math_Assistant_with_LangChain.ipynb) - Mathematical reasoning agent with step-by-step problem solving
 - 📁 [AI Data Analysis Agent with LCEL](https://github.com/AliAbdallah21/ai-data-analysis-lcel) - Intelligent data science assistant with automated analysis capabilities
+- 📁 [AI Calculator Tool with langChain](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/Course_6_Fundementals_of_building_Ai_agents/InitializeChatModel.ipynb) Simple Implementation of a calculator agent 
 
 **🚀 Agent Projects:**
 - [**AI-Powered Data Analysis Agent**](https://github.com/AliAbdallah21/ai-data-analysis-lcel) - Conversational data science assistant with automatic dataset analysis, model training, and intelligent insights
