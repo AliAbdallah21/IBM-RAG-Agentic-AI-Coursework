@@ -103,7 +103,7 @@ The IBM RAG and Agentic AI Professional Certificate is a comprehensive program d
 ---
 
 ### **Course 5: Build Multimodal Generative AI Applications**
-**Status:** 🔄 In Progress | **Duration:** 4 weeks
+**Status:** ✅ Complete | **Duration:** 4 weeks
 
 **Overview:** Exploration of multimodal AI systems integrating text, speech, images, and other data modalities for comprehensive AI applications.
 
@@ -128,7 +128,7 @@ The IBM RAG and Agentic AI Professional Certificate is a comprehensive program d
 ---
 
 ### **Course 6: Fundamentals of Building AI Agents**
-**Status:** 🔄 In Progress | **Duration:** 5 weeks
+**Status:** ✅ Complete | **Duration:** 5 weeks
 
 **Overview:** Introduction to autonomous AI agent architectures, covering planning, reasoning, tool usage, and multi-agent coordination patterns.
 
