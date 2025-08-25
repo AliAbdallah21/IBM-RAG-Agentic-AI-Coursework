@@ -148,6 +148,7 @@ The IBM RAG and Agentic AI Professional Certificate is a comprehensive program d
 **🚀 Agent Projects:**
 - [**AI-Powered Data Analysis Agent**](https://github.com/AliAbdallah21/ai-data-analysis-lcel) - Conversational data science assistant with automatic dataset analysis, model training, and intelligent insights
 - [**AI-Powered Tool Calling Agent**](https://github.com/AliAbdallah21/Build-a-Tool-Calling-Agent) - A multi-tool agent combining YouTube video handling, transcript extraction, and summarization capabilities, driven by LangChain and OpenAI.
+- [**AI-Powered Tool Convert English questions to SQL queriesl](https://github.com/AliAbdallah21/Natural-Language-SQL-Agent) - Conversational Database expert Assistant and Automatic table schema analysis and query optimization
 
 ---
 
