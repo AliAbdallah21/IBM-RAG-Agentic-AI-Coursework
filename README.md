@@ -153,20 +153,23 @@ The IBM RAG and Agentic AI Professional Certificate is a comprehensive program d
 ---
 
 ### **Course 7: Agentic AI with LangChain and LangGraph**
-**Status:** 📋 Planned | **Duration:** 6 weeks
+**Status:** 📋 In Progress | **Duration:** 6 weeks
 
 **Overview:** Advanced agent development using LangChain ecosystem, focusing on complex workflows, state management, and production deployment patterns.
 
-**Expected Learning Outcomes:**
+**Key Learning Outcomes:**
 - LangGraph workflow orchestration
 - Complex agent state management
 - Production deployment strategies
 - Agent monitoring and optimization
 
-**Planned Implementations:**
-- Advanced multi-agent systems
-- Complex workflow orchestration
-- Production-ready agent deployments
+**Foundational Tutorials:**
+- 📁 [LangGraph 101: Building Stateful AI Workflows](https://github.com/AliAbdallah21/LangGraph-Building-Stateful-AI-Workflows) - Comprehensive tutorial on LangGraph fundamentals with authentication workflow implementation
+- 📁 [LangGraph Q&A Workflow](https://github.com/AliAbdallah21/LangGraph-QA-Workflow) - Intelligent context-aware question-answering system with conditional routing and LLM integration
+
+**🚀 Production Agent Projects:**
+- [**AI-Powered Data Analysis Agent**](https://github.com/AliAbdallah21/ai-data-analysis-lcel) - Conversational data science assistant with automatic dataset analysis, model training, and intelligent insights
+
 
 ---
 
