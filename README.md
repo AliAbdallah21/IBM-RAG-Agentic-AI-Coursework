@@ -166,6 +166,7 @@ The IBM RAG and Agentic AI Professional Certificate is a comprehensive program d
 **Foundational Tutorials:**
 - 📁 [LangGraph 101: Building Stateful AI Workflows](https://github.com/AliAbdallah21/LangGraph-Building-Stateful-AI-Workflows) - Comprehensive tutorial on LangGraph fundamentals with authentication workflow implementation
 - 📁 [LangGraph Q&A Workflow](https://github.com/AliAbdallah21/LangGraph-QA-Workflow) - Intelligent context-aware question-answering system with conditional routing and LLM integration
+- 📁 [LangGraph Reflection Agent](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework/blob/main/course_7_agentic_ai_with_langchain_and_langgraph/Building_Reflection_Agent.ipynb) - Tutorial on LangGraph and LangChain Reflection Agent to generate Linkedin Posts
 
 **🚀 Production Agent Projects:**
 - [**AI-Powered Data Analysis Agent**](https://github.com/AliAbdallah21/ai-data-analysis-lcel) - Conversational data science assistant with automatic dataset analysis, model training, and intelligent insights
